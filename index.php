@@ -14,10 +14,10 @@
     <div class="row mt-5">
         <div class="col-6 m-auto">
         <div class="card">
-            <div class="card-header">
+            <div class="card-header text-center">
                 <h3>Sistem Informasi Mahasiswa</h3>
             </div>
-            <div class="card-body">
+            <div class="card-body text-center">
                 <h4>Selamat Datang </h4>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
             
