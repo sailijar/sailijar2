@@ -7,7 +7,7 @@ $kd = $_POST['kode'];
 $jrs = $_POST['jurusan'];
 
 #3. menulis query
-$simpan = "INSERT INTO jurusans (kode,jurusan) VALUES ('$kd','$jrs')";
+$simpan = "INSERT INTO jurusan (kode,jurusan) VALUES ('$kd','$jrs')";
 
 #4. jalankan query
 $proses = mysqli_query($koneksi, $simpan);

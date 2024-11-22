@@ -17,7 +17,7 @@
         <div class="card">
             <div class="card-header">
                 <h3 class="float-start">Data Jurusan</h3>
-                <span class="float-end"><a class="btn btn-primary" href=""><i class="fa-solid fa-square-plus"></i> Tambah Data</a></span>
+                <span class="float-end"><a class="btn btn-primary" href="form.php"><i class="fa-solid fa-square-plus"></i> Tambah Data</a></span>
             </div>
             <div class="card-body">
             <table class="table table-striped">
@@ -35,8 +35,8 @@
                         <td>Mark</td>
                         <td>Otto</td>
                         <td>
-                            <a class="btn btn-info btn-sm" href=""><i class="fa-solid fa-pen-to-square"></i></a>
-                            <a class="btn btn-danger btn-sm" href=""><i class="fa-solid fa-trash"></i></a>
+                            <a class="btn btn-info btn-sm" href="edit.php"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a class="btn btn-danger btn-sm" href="hapus.php"><i class="fa-solid fa-trash"></i></a>
                         </td>
                     </tr>
                 
