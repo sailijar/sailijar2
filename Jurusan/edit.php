@@ -6,7 +6,7 @@ include("../koneksi.php");
 $id = $_GET['id'];
 
 #3. mengambil semua record data berdasarkan id yang dipilih
-$ambil = "SELECT * FROM jurusans WHERE id='$id'";
+$ambil = "SELECT * FROM jurusan WHERE id='$id'";
 
 #4. menjalankan query
 $edit = mysqli_query($koneksi,$ambil);
