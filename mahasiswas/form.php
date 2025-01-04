@@ -58,7 +58,7 @@
                         <option value="">-Pilih Jurusan-</option>
                         <?php
                             include('../koneksi.php');
-                            $sql_jur = "SELECT * FROM jurusans";
+                            $sql_jur = "SELECT * FROM jurusan";
                             $qry_jur = mysqli_query($koneksi,$sql_jur);
                             foreach($qry_jur as $data_jur){
                                 ?>

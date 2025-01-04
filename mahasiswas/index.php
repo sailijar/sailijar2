@@ -40,7 +40,7 @@
 
                     #2. menulis query
                     $tampil = "SELECT *, mahasiswas.nama as nm_mhs, dosens.nama as nm_dos FROM mahasiswas 
-                    INNER JOIN jurusans ON mahasiswas.jurusans_id=jurusans.id
+                    INNER JOIN jurusan ON mahasiswas.jurusan_id=jurusan.id
                     INNER JOIN dosens ON mahasiswas.dosens_id=dosens.id";
 
                     #3. jalankan query

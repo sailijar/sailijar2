@@ -34,7 +34,7 @@
                     <label for="exampleInputPassword1" class="form-label">Jabatan</label>
                         <select name="jabatan" id="" class="form-control">
                             <option value="">-Pilih Jabatan-</option>
-                            <option value="Fuul Time">Fuul Time</option>
+                            <option value="Full Time">Full Time</option>
                             <option value="Part Time">Part Time</option>
                             </select>
                 </div>
